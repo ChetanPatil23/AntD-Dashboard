@@ -1,0 +1,14 @@
+.left,
+.center,
+.right {
+  flex: 1;
+}
+
+.flex {
+  display: flex;
+}
+
+.overview {
+  display: flex;
+  gap: 30px;
+}
