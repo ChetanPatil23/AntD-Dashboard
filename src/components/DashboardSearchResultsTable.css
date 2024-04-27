@@ -1,0 +1,12 @@
+.centered-table .ant-table-thead > tr > th {
+  text-align: center;
+}
+
+.centered-table .ant-table-cell {
+  text-align: center;
+}
+
+.brown-table-header .ant-table-thead > tr > th {
+  background-color: rgb(95, 49, 49);
+  color: white;
+}
