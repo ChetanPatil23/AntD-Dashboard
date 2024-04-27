@@ -22,9 +22,7 @@ const DashboardSearchResultsTable = () => {
     <Table
       dataSource={data}
       className="centered-table brown-table-header"
-      pagination={{
-        position: ["topRight"],
-      }}
+      pagination={false}
     >
       <Column title="Client Group" dataIndex="age" key="age" />
       <Column title="Legal Entities" dataIndex="age" key="age" />
